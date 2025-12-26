@@ -9,9 +9,10 @@ Aplikasi berbasis AI untuk mengecek hafalan surat Al-Fatihah secara real-time me
 
 ## 🚀 Cara Coba (Live Demo)
 Cobain aplikasinya langsung di sini:
-[**Klik untuk Buka Aplikasi**](LINK_HUGGING_FACE_KAMU_DISINI)
+[**Klik untuk Buka Aplikasi**]((https://huggingface.co/spaces/ahsanifadhli/tes-ngaji-alfatihah))
 
 ## 🛠️ Teknologi yang Dipakai
 - Python
 - OpenAI Whisper (Speech-to-Text Model)
+
 - Gradio (Web Interface)
